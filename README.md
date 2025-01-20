@@ -1,4 +1,4 @@
-# 🌍 Air Quality Report Dashboard  
+# 🌍 Air Quality Report Dashboard 
 
 Welcome to the **Air Quality Report Dashboard**! This project showcases a dynamic and interactive Power BI dashboard designed to analyze and visualize air quality data. From monitoring pollutant levels to identifying regional trends, this dashboard empowers stakeholders to take data-driven actions toward improving environmental conditions.  
 ---
